@@ -2,7 +2,7 @@ name: Execute Scheduled Posts
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '52 * * * *'
   workflow_dispatch:
 
 jobs:
